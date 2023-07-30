@@ -1,8 +1,4 @@
-# Webpage_Andres
-Repositorio para trabajar en conjunto y desarrollar la posible página para el papá de Andrés.
-
-
-## Rama de ideas
+# Rama de ideas
 
 En esta rama se propondran las ideas o posibles diseños para la página web.
 
